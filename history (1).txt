@@ -1,0 +1,4 @@
+   0 cat /etc/group >> /tmp/test.txt
+   1 cat /tmp/test.txt
+   2 vi /tmp/test.txt
+   3 history > history.txt | export_file history.txt
