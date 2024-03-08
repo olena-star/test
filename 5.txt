@@ -1,3 +1,17 @@
 Filesystem            Size  Used Avail Use% Mounted on
 C:/Program Files/Git  1.5T  224G  1.3T  15% /
 W:                    328G  108G  220G  33% /w
+     UID     PID    PPID  TTY        STIME COMMAND
+Olena My    2604    2493 pty0     13:50:57 /usr/bin/ps
+Olena My    1840    1784 cons0      Mar  7 /usr/bin/bash
+Olena My    2492       1 ?        13:09:24 /usr/bin/mintty
+Olena My    2052       1 cons3    14:28:29 /usr/bin/bash
+Olena My    1748    1697 cons1      Mar  6 /usr/bin/bash
+Olena My    2312    1848 cons2    11:10:21 /usr/bin/bash
+Olena My    1848       1 cons2      Mar  7 /usr/bin/bash
+Olena My    1847    1840 cons0      Mar  7 /c/Program Files/nodejs/node
+Olena My    1697       1 cons1      Mar  6 /usr/bin/bash
+Olena My    1755    1748 cons1      Mar  6 /c/Program Files/nodejs/node
+Olena My    2493    2492 pty0     13:09:24 /usr/bin/bash
+Olena My    2319    2312 cons2    11:10:23 /c/Program Files/nodejs/node
+Olena My    1784       1 cons0      Mar  7 /usr/bin/bash
