@@ -13,10 +13,6 @@ db.users.updateMany(
 
 Заблокировать юзеров из China
 
-db.users.updateMany(
-    { country: 'China' }, 
-    { $set: { is_blocked: true } } 
-)
 
 Увеличить баланс всех незаблокированных юзеров на 100
 
