@@ -1,3 +1,0 @@
-   0 cat /etc/group >> /tmp/test.txt
-   1 cat /tmp/test.txt
-  
